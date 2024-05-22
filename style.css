@@ -1,0 +1,25 @@
+.box1{
+    height: 400px;
+    width: 300px;
+    background-color: #2f8141;
+    border: 1PX solid #b4b4b4;
+}
+.box2{
+    height: 140px;
+    width: 571px;
+    background-color: #12513b;
+    border: 1PX solid #b4b4b4;
+}
+.box3{
+    height: 140px;
+    width: 571px;
+    background-color: #e624bb;
+    border: 1PX solid #b4b4b4;
+}
+.box4{
+    height: 140px;
+    width: 571px;
+    background-color: #55ef0d;
+    border: 1PX solid #b4b4b4;
+}
+
